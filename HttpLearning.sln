@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHost", "HttpHost\HttpHost.csproj", "{9540EFEB-95FF-4644-A4C5-13BC979C4E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpRequestWinForm", "HttpRequestWinForm\HttpRequestWinForm.csproj", "{ACBDB472-E561-44E2-AA86-48A5DEF713A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9540EFEB-95FF-4644-A4C5-13BC979C4E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9540EFEB-95FF-4644-A4C5-13BC979C4E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9540EFEB-95FF-4644-A4C5-13BC979C4E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9540EFEB-95FF-4644-A4C5-13BC979C4E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBDB472-E561-44E2-AA86-48A5DEF713A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBDB472-E561-44E2-AA86-48A5DEF713A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBDB472-E561-44E2-AA86-48A5DEF713A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBDB472-E561-44E2-AA86-48A5DEF713A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48DE15D1-E21F-45FC-B6CB-2F8246EA9AC5}
+	EndGlobalSection
+EndGlobal
